@@ -8,3 +8,7 @@ CodingHW2: multi-calss logistic regressor for mnist data without using native tf
 CodingHW3: two-layer neural network for mnist data without using native tf functions.
 
 CodingHW4: CNN for cifar10 data.
+
+CodingHW5: RNN for sentiment analysis with twitter data.
+
+Final project: CNN for mobile eye gaze estimation.
